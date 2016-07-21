@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+class DirRepository
+  # 仕様を見てコードを追加
+  attr_reader :dir_name
+
+  # 仕様を見てコードを追加
+  def initialize(dir_name)
+    @dir_name = dir_name
+  end
+
+  # メソッドの中身のコードを追加
+  def make
+  end
